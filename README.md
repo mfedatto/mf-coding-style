@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## MFedatto Coding Style
 
 You can use the [editor on GitHub](https://github.com/mfedatto/mf-coding-style/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
